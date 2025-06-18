@@ -1,4 +1,4 @@
-# 💻 Projeto Interfaces - SENAI
+# 💻 Atividades - SENAI
 
 Este repositório foi criado como parte das atividades desenvolvidas no curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
 
